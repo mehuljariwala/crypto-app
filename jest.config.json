@@ -1,0 +1,12 @@
+{
+  "collectCoverage": true,
+  "coverageReporters": ["json", "html"],
+  "testEnvironment": "jsdom",
+  "testRegex": "((\\.|/*.)(spec))\\.js?$",
+  "moduleNameMapper": {
+    "\\.(css|scss|less)$": "identity-obj-proxy"
+  },
+  "globals": {
+    "window": {}
+  }
+}
