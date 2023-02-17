@@ -31,7 +31,7 @@ const Dashboard = () => {
             <i className="bx bx-menu sidebarBtn"></i>
             <span className="dashboard">Dashboard</span>
           </div>
-          <span className="admin_name">Mehul Jariwala</span>
+          <span className="admin_name">Harish Tatikonda</span>
         </nav>
         <div className="home-content">
           <div>
